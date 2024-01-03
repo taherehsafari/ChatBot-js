@@ -45,6 +45,12 @@ function processMessage(){
 
         showRespond( botRespond =  ("به امید دیدار"))
     }
+
+    else{
+
+        showRespond( botRespond =  ("اطلاعی ندارم"))
+
+    }
 }
 
 // Step-5 : create a function to show the bot's respond
